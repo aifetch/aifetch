@@ -92,6 +92,12 @@
 <td align="center"><a href="https://github.com/aifetch/deploy-copilot">🔗 查看</a></td>
 </tr>
 <tr>
+<td align="center"><strong>ai-history</strong></td>
+<td>本地桌面应用，统一浏览和管理 Cursor 与 Claude Code 的 AI 对话历史，支持搜索、时间线、AI 总结和批量导出</td>
+<td align="center">Rust / Tauri / React</td>
+<td align="center"><a href="https://github.com/aifetch/ai-history">🔗 查看</a></td>
+</tr>
+<tr>
 <td align="center"><strong>aifetch</strong></td>
 <td>当前 GitHub Profile README 与贡献图自动化配置</td>
 <td align="center">Markdown / GitHub Actions</td>
