@@ -86,12 +86,6 @@
 <td align="center"><a href="https://github.com/aifetch/cursor-byok">🔗 查看</a></td>
 </tr>
 <tr>
-<td align="center"><strong>glm-coding</strong></td>
-<td>GLM 相关编码实践与工具集合，前后端一体化</td>
-<td align="center">Python / Vue</td>
-<td align="center"><a href="https://github.com/aifetch/glm-coding">🔗 查看</a></td>
-</tr>
-<tr>
 <td align="center"><strong>ai-history</strong></td>
 <td>本地桌面应用，统一浏览和管理 Cursor 与 Claude Code 的 AI 对话历史，支持搜索、时间线、AI 总结和批量导出</td>
 <td align="center">Rust / Tauri / React</td>
