@@ -86,12 +86,6 @@
 <td align="center"><a href="https://github.com/aifetch/cursor-byok">🔗 查看</a></td>
 </tr>
 <tr>
-<td align="center"><strong>ai-history</strong></td>
-<td>本地桌面应用，统一浏览和管理 Cursor 与 Claude Code 的 AI 对话历史，支持搜索、时间线、AI 总结和批量导出</td>
-<td align="center">Rust / Tauri / React</td>
-<td align="center"><a href="https://github.com/aifetch/ai-history">🔗 查看</a></td>
-</tr>
-<tr>
 <td align="center"><strong>deploy-copilot</strong></td>
 <td>桌面端部署辅助工具，聚合配置、日志、进度和自动化执行体验</td>
 <td align="center">Rust / Tauri / React</td>
