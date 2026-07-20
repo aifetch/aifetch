@@ -74,28 +74,34 @@
 <th width="12%">🔗 链接</th>
 </tr>
 <tr>
-<td align="center"><strong>asset-vault</strong></td>
-<td>极简个人资产追踪网页，聚焦资产记录、分类统计和本地化体验</td>
-<td align="center">Vue / TypeScript / Vite</td>
-<td align="center"><a href="https://github.com/aifetch/asset-vault">🔗 查看</a></td>
+<td align="center"><strong>marksync</strong></td>
+<td>浏览器书签同步管理扩展，支持树形展示、拖拽排序、GitHub Gist 双向同步与深色模式</td>
+<td align="center">TypeScript / WXT / React</td>
+<td align="center"><a href="https://github.com/aifetch/marksync">🔗 查看</a></td>
 </tr>
 <tr>
-<td align="center"><strong>bookmark-sync</strong></td>
-<td>浏览器书签同步管理扩展，支持树形展示、拖拽排序和 GitHub Gist 双向同步</td>
-<td align="center">TypeScript / WXT / Gist</td>
-<td align="center"><a href="https://github.com/aifetch/bookmark-sync">🔗 查看</a></td>
+<td align="center"><strong>cursor-byok</strong></td>
+<td>Cursor 无限 BYOK 方案，突破订阅与额度限制</td>
+<td align="center">Shell / Config</td>
+<td align="center"><a href="https://github.com/aifetch/cursor-byok">🔗 查看</a></td>
 </tr>
 <tr>
-<td align="center"><strong>deploy-copilot</strong></td>
-<td>桌面端部署辅助工具，聚合配置、日志、进度和自动化执行体验</td>
-<td align="center">Rust / Tauri / React</td>
-<td align="center"><a href="https://github.com/aifetch/deploy-copilot">🔗 查看</a></td>
+<td align="center"><strong>glm-coding</strong></td>
+<td>GLM 相关编码实践与工具集合，前后端一体化</td>
+<td align="center">Python / Vue</td>
+<td align="center"><a href="https://github.com/aifetch/glm-coding">🔗 查看</a></td>
 </tr>
 <tr>
 <td align="center"><strong>ai-history</strong></td>
 <td>本地桌面应用，统一浏览和管理 Cursor 与 Claude Code 的 AI 对话历史，支持搜索、时间线、AI 总结和批量导出</td>
 <td align="center">Rust / Tauri / React</td>
 <td align="center"><a href="https://github.com/aifetch/ai-history">🔗 查看</a></td>
+</tr>
+<tr>
+<td align="center"><strong>deploy-copilot</strong></td>
+<td>桌面端部署辅助工具，聚合配置、日志、进度和自动化执行体验</td>
+<td align="center">Rust / Tauri / React</td>
+<td align="center"><a href="https://github.com/aifetch/deploy-copilot">🔗 查看</a></td>
 </tr>
 <tr>
 <td align="center"><strong>aifetch</strong></td>
