@@ -18,7 +18,7 @@
 
 - 🔭 目前专注于前端工程、个人效率工具、浏览器扩展与 AI 工作流自动化
 - 🌱 常用 TypeScript、Vue、React、Node.js、Rust 等技术栈
-- 🧩 正在沉淀资产管理、书签同步、部署辅助等可复用工具
+- 🧩 正在沉淀资产管理、书签同步、DeployX 部署工具等可复用工具
 - ⚡ 喜欢把复杂流程做成清晰、稳定、可交付的产品
 
 </td>
@@ -86,10 +86,10 @@
 <td align="center"><a href="https://github.com/aifetch/cursor-byok">🔗 查看</a></td>
 </tr>
 <tr>
-<td align="center"><strong>deploy-copilot</strong></td>
-<td>桌面端部署辅助工具，聚合配置、日志、进度和自动化执行体验</td>
-<td align="center">Rust / Tauri / React</td>
-<td align="center"><a href="https://github.com/aifetch/deploy-copilot">🔗 查看</a></td>
+<td align="center"><strong>deployx</strong></td>
+<td>DeployX 部署工具：资源与 JAR 部署、多配置管理、Git 信息展示与拖拽排序，支持手动与监听自动部署</td>
+<td align="center">Rust / Tauri / React / Vite</td>
+<td align="center"><a href="https://github.com/aifetch/deployx">🔗 查看</a></td>
 </tr>
 <tr>
 <td align="center"><strong>aifetch</strong></td>
