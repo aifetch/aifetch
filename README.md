@@ -18,7 +18,7 @@
 
 - 🔭 目前专注于前端工程、个人效率工具、浏览器扩展与 AI 工作流自动化
 - 🌱 常用 TypeScript、Vue、React、Node.js、Rust 等技术栈
-- 🧩 正在沉淀资产管理、书签同步、DeployX 部署工具等可复用工具
+- 🧩 正在沉淀部署与包替换、书签同步、资产管理等可复用工具
 - ⚡ 喜欢把复杂流程做成清晰、稳定、可交付的产品
 
 </td>
@@ -74,28 +74,10 @@
 <th width="12%">🔗 链接</th>
 </tr>
 <tr>
-<td align="center"><strong>marksync</strong></td>
-<td>浏览器书签同步管理扩展，支持树形展示、拖拽排序、GitHub Gist 双向同步与深色模式</td>
-<td align="center">TypeScript / WXT / React</td>
-<td align="center"><a href="https://github.com/aifetch/marksync">🔗 查看</a></td>
-</tr>
-<tr>
-<td align="center"><strong>cursor-byok</strong></td>
-<td>Cursor 无限 BYOK 方案，突破订阅与额度限制</td>
-<td align="center">Shell / Config</td>
-<td align="center"><a href="https://github.com/aifetch/cursor-byok">🔗 查看</a></td>
-</tr>
-<tr>
-<td align="center"><strong>deployx</strong></td>
-<td>DeployX 部署工具：资源与 JAR 部署、多配置管理、Git 信息展示与拖拽排序，支持手动与监听自动部署</td>
-<td align="center">Rust / Tauri / React / Vite</td>
-<td align="center"><a href="https://github.com/aifetch/deployx">🔗 查看</a></td>
-</tr>
-<tr>
-<td align="center"><strong>aifetch</strong></td>
-<td>当前 GitHub Profile README 与贡献图自动化配置</td>
-<td align="center">Markdown / GitHub Actions</td>
-<td align="center"><a href="https://github.com/aifetch/aifetch">🔗 查看</a></td>
+<td align="center"><strong>toollib-releases</strong></td>
+<td>工具库 ToolLib 的自动更新发布仓：托管 <code>latest.json</code> 更新清单与签名更新包，客户端据此完成自动升级</td>
+<td align="center">Tauri / GitHub Releases</td>
+<td align="center"><a href="https://github.com/aifetch/toollib-releases">🔗 查看</a></td>
 </tr>
 </table>
 
